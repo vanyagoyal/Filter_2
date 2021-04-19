@@ -1,0 +1,13 @@
+#main_page {
+    background:url("BG.png");
+    background-size:70%;
+    background-position: 60px;
+}
+.save_btn {
+    color:yellow;
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+    width: 200px;
+    height:50px;
+}
